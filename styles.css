@@ -1,0 +1,23 @@
+body {
+    background-color: yellow;
+    text-align:center;
+    
+}
+
+p {
+    font-family: helvetica;
+    color: blue;
+    font-weight:bold;
+}
+
+li {
+    text-decoration:underline;
+    background:url("https://i.ytimg.com/vi/v1SabYdIlZI/maxresdefault.jpg");
+}
+
+img {
+    border: 2px solid red;
+    width: 75%;
+    padding: 3px;
+    margin: 30px;
+}
